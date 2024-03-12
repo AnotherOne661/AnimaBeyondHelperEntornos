@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class Settings {
     public static final String APP_NAME = "Anima Beyond Helper";
-    public static final String APP_VERSION = "1.0";
+    public static final String APP_VERSION = "0.1";
     public static final String APP_AUTHOR = "anotherone661";
     public static final int WINDOW_WIDTH = 1200;
     public static final int WINDOW_HEIGHT = 675;
@@ -16,8 +16,4 @@ public class Settings {
     public static final String BG_PATH = "/bg.jpg";
 }
 
-public static void Serving(){
-    System.out.printf("Primer commit en github");
-    System.out.printf("Commit Funcional de las primeras dos clases");
-    
-}
+¡
