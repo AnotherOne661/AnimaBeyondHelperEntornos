@@ -166,5 +166,6 @@ public class DiceRoller {
     public static int danoArma(int DMGArma, int calidad) {
         return DMGArma + (calidad * 2);
     }
+// Primer commit dice Roller
     //Esto es una pequeña práctica
 }
