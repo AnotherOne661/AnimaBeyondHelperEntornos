@@ -17,5 +17,7 @@ public class Settings {
 }
 
 public static void Serving(){
-    System.out.print("Primer commit en github);
+    System.out.printf("Primer commit en github");
+    System.out.printf("Commit Funcional de las primeras dos clases");
+    
 }
