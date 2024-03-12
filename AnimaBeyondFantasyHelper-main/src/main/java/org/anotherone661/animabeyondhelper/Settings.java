@@ -16,3 +16,4 @@ public class Settings {
     public static final String BG_PATH = "/bg.jpg";
 }
 // Thank Javi
+// Segundo commit tras el soft reset
