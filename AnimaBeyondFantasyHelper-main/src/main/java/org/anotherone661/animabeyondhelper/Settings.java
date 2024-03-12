@@ -11,9 +11,10 @@ public class Settings {
     public static final boolean WINDOW_RESIZABLE = false;
     public static final Dimension WINDOW_SIZE = new Dimension(WINDOW_WIDTH, WINDOW_HEIGHT);
     public static final boolean ALWAYS_ON_TOP = true;
-    //TODO Actual buttons
+    //TODO: Actual buttons
     // Thank Javi
     public static final String ICON_PATH = "/AnimaLogo.png";
     public static final String BG_PATH = "/bg.jpg";
+	// Sterling Moss 
 }
 
