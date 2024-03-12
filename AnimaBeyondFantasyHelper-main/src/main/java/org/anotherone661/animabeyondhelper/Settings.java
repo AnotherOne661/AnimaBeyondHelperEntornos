@@ -16,5 +16,6 @@ public class Settings {
     public static final String ICON_PATH = "/AnimaLogo.png";
     public static final String BG_PATH = "/bg.jpg";
 	// Sterling Moss 
+	// Roal Dahl
 }
 
