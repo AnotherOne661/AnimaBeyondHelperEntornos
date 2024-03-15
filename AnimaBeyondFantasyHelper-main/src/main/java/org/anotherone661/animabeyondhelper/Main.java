@@ -8,7 +8,13 @@ public class Main {
         Launcher launcher = new Launcher();
         launcher.run();
     }
+
     public static void hola(){
         System.out.print("Hola")
             }
+  
+    public static void adios(){
+        System.out.print("Adios")
+    }
+
 }
