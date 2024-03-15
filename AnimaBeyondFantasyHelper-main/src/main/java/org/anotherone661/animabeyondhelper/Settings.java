@@ -19,4 +19,5 @@ public class Settings {
 	// Roal Dahl
 	// Federico Garcia Lorca
 }
-
+// Thank Javi
+// Segundo commit tras el soft reset
