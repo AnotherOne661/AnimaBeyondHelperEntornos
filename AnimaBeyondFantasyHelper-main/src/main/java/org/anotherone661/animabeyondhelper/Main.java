@@ -8,4 +8,7 @@ public class Main {
         Launcher launcher = new Launcher();
         launcher.run();
     }
+    public static void adios(){
+        System.out.print("Adios")
+    }
 }
