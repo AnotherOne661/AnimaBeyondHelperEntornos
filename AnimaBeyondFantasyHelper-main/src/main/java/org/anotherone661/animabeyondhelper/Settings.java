@@ -5,7 +5,7 @@ import java.awt.*;
 public class Settings {
     public static final String APP_NAME = "Anima Beyond Helper";
     public static final String APP_VERSION = "0.1";
-    public static final String APP_AUTHOR = "anotherone661";
+    public static final String APP_AUTHOR = "anotherone661 and MrSevyu";
     public static final int WINDOW_WIDTH = 1200;
     public static final int WINDOW_HEIGHT = 675;
     public static final boolean WINDOW_RESIZABLE = false;
